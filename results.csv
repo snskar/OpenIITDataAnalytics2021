@@ -1,0 +1,4001 @@
+id,popularity
+1,high
+2,low
+3,average
+4,low
+5,average
+6,low
+7,high
+8,average
+9,average
+10,very low
+11,high
+12,low
+13,very low
+14,very low
+15,average
+16,low
+17,low
+18,very low
+19,low
+20,very low
+21,low
+22,low
+23,very low
+24,low
+25,very low
+26,very low
+27,low
+28,low
+29,low
+30,low
+31,very low
+32,average
+33,low
+34,average
+35,average
+36,very low
+37,low
+38,low
+39,very low
+40,high
+41,average
+42,very low
+43,low
+44,low
+45,high
+46,average
+47,average
+48,very low
+49,low
+50,low
+51,high
+52,low
+53,average
+54,high
+55,very low
+56,low
+57,average
+58,low
+59,very low
+60,low
+61,low
+62,very low
+63,low
+64,very low
+65,high
+66,very low
+67,very low
+68,high
+69,average
+70,low
+71,high
+72,high
+73,very low
+74,very low
+75,high
+76,high
+77,very low
+78,average
+79,low
+80,low
+81,low
+82,average
+83,average
+84,average
+85,average
+86,average
+87,high
+88,average
+89,very low
+90,very low
+91,low
+92,low
+93,low
+94,average
+95,very low
+96,low
+97,very low
+98,average
+99,very low
+100,high
+101,average
+102,very low
+103,average
+104,very low
+105,very low
+106,high
+107,low
+108,low
+109,very low
+110,high
+111,low
+112,low
+113,average
+114,low
+115,high
+116,very low
+117,very low
+118,very low
+119,average
+120,high
+121,average
+122,low
+123,very low
+124,high
+125,average
+126,high
+127,high
+128,low
+129,low
+130,very low
+131,high
+132,low
+133,low
+134,high
+135,very low
+136,average
+137,low
+138,high
+139,average
+140,average
+141,average
+142,very low
+143,very low
+144,very low
+145,low
+146,very low
+147,low
+148,low
+149,very low
+150,very low
+151,low
+152,high
+153,low
+154,very low
+155,high
+156,low
+157,average
+158,very low
+159,very low
+160,high
+161,low
+162,average
+163,very low
+164,very low
+165,high
+166,high
+167,average
+168,very low
+169,high
+170,average
+171,very low
+172,low
+173,low
+174,average
+175,low
+176,low
+177,very low
+178,high
+179,very low
+180,low
+181,very low
+182,very low
+183,low
+184,very low
+185,very low
+186,very low
+187,low
+188,very low
+189,low
+190,high
+191,low
+192,high
+193,average
+194,average
+195,average
+196,low
+197,very low
+198,low
+199,very low
+200,average
+201,low
+202,low
+203,low
+204,very low
+205,low
+206,high
+207,high
+208,low
+209,average
+210,low
+211,very low
+212,low
+213,very low
+214,average
+215,high
+216,average
+217,average
+218,very low
+219,very low
+220,low
+221,very low
+222,very high
+223,average
+224,low
+225,low
+226,average
+227,low
+228,average
+229,average
+230,very low
+231,very low
+232,low
+233,high
+234,very low
+235,high
+236,very low
+237,high
+238,very low
+239,high
+240,very low
+241,very low
+242,high
+243,average
+244,very low
+245,very low
+246,very low
+247,very low
+248,low
+249,low
+250,very low
+251,low
+252,high
+253,very low
+254,low
+255,high
+256,average
+257,average
+258,high
+259,low
+260,low
+261,high
+262,very low
+263,high
+264,very low
+265,average
+266,low
+267,low
+268,average
+269,high
+270,average
+271,high
+272,low
+273,very low
+274,low
+275,average
+276,very low
+277,high
+278,low
+279,low
+280,very low
+281,high
+282,low
+283,very low
+284,low
+285,average
+286,low
+287,very low
+288,average
+289,very low
+290,low
+291,high
+292,low
+293,very low
+294,average
+295,average
+296,high
+297,average
+298,high
+299,high
+300,average
+301,average
+302,average
+303,low
+304,very low
+305,high
+306,low
+307,average
+308,average
+309,very low
+310,average
+311,low
+312,average
+313,very low
+314,high
+315,very low
+316,average
+317,very low
+318,low
+319,average
+320,very low
+321,very low
+322,average
+323,very low
+324,average
+325,low
+326,low
+327,very low
+328,high
+329,low
+330,low
+331,very low
+332,very low
+333,average
+334,average
+335,average
+336,high
+337,low
+338,average
+339,low
+340,low
+341,average
+342,average
+343,high
+344,high
+345,very low
+346,low
+347,low
+348,high
+349,very low
+350,average
+351,low
+352,average
+353,low
+354,low
+355,low
+356,very low
+357,low
+358,low
+359,low
+360,high
+361,high
+362,very low
+363,average
+364,very low
+365,very low
+366,average
+367,very low
+368,high
+369,low
+370,high
+371,low
+372,average
+373,high
+374,low
+375,low
+376,very low
+377,high
+378,average
+379,average
+380,very low
+381,very low
+382,high
+383,high
+384,high
+385,average
+386,low
+387,low
+388,high
+389,low
+390,low
+391,low
+392,very low
+393,high
+394,high
+395,low
+396,low
+397,average
+398,average
+399,high
+400,low
+401,very low
+402,low
+403,low
+404,very low
+405,high
+406,low
+407,very low
+408,very low
+409,high
+410,high
+411,very low
+412,average
+413,very low
+414,low
+415,high
+416,high
+417,average
+418,very low
+419,average
+420,very low
+421,average
+422,average
+423,low
+424,high
+425,low
+426,low
+427,very low
+428,high
+429,average
+430,very low
+431,average
+432,average
+433,very low
+434,low
+435,very low
+436,high
+437,low
+438,average
+439,low
+440,average
+441,average
+442,low
+443,low
+444,very low
+445,very low
+446,average
+447,very low
+448,low
+449,high
+450,average
+451,high
+452,average
+453,very low
+454,low
+455,very low
+456,high
+457,low
+458,average
+459,high
+460,average
+461,very low
+462,high
+463,low
+464,low
+465,low
+466,high
+467,average
+468,very low
+469,low
+470,very low
+471,low
+472,very low
+473,high
+474,high
+475,low
+476,low
+477,low
+478,very low
+479,average
+480,average
+481,very low
+482,very low
+483,very low
+484,low
+485,low
+486,very low
+487,low
+488,very low
+489,very low
+490,average
+491,very low
+492,average
+493,very low
+494,very low
+495,average
+496,low
+497,high
+498,high
+499,low
+500,low
+501,low
+502,low
+503,very low
+504,average
+505,high
+506,low
+507,very low
+508,very low
+509,very low
+510,low
+511,high
+512,low
+513,low
+514,very low
+515,very low
+516,average
+517,low
+518,average
+519,very low
+520,high
+521,low
+522,high
+523,low
+524,low
+525,high
+526,low
+527,very low
+528,high
+529,low
+530,very low
+531,average
+532,high
+533,low
+534,high
+535,low
+536,very low
+537,low
+538,low
+539,low
+540,average
+541,very low
+542,low
+543,high
+544,very low
+545,high
+546,average
+547,high
+548,low
+549,high
+550,low
+551,low
+552,low
+553,very low
+554,low
+555,low
+556,low
+557,average
+558,high
+559,very low
+560,very low
+561,very low
+562,very low
+563,low
+564,average
+565,low
+566,average
+567,average
+568,high
+569,low
+570,average
+571,very low
+572,high
+573,average
+574,very low
+575,average
+576,average
+577,average
+578,average
+579,very low
+580,average
+581,average
+582,low
+583,very low
+584,low
+585,low
+586,high
+587,low
+588,very low
+589,low
+590,very low
+591,low
+592,high
+593,high
+594,very low
+595,low
+596,high
+597,low
+598,low
+599,very low
+600,high
+601,low
+602,high
+603,high
+604,low
+605,average
+606,high
+607,high
+608,average
+609,very low
+610,low
+611,very low
+612,average
+613,very low
+614,low
+615,very low
+616,low
+617,very low
+618,very low
+619,high
+620,average
+621,low
+622,average
+623,high
+624,high
+625,average
+626,low
+627,low
+628,average
+629,low
+630,very low
+631,average
+632,high
+633,average
+634,low
+635,high
+636,high
+637,low
+638,very low
+639,low
+640,high
+641,very low
+642,average
+643,average
+644,very low
+645,very low
+646,very low
+647,very low
+648,very low
+649,average
+650,very low
+651,very low
+652,very low
+653,low
+654,very low
+655,very low
+656,low
+657,high
+658,average
+659,high
+660,low
+661,high
+662,average
+663,very low
+664,average
+665,low
+666,low
+667,very low
+668,average
+669,average
+670,low
+671,very low
+672,very low
+673,high
+674,very low
+675,very low
+676,average
+677,low
+678,very low
+679,low
+680,low
+681,very low
+682,very low
+683,very low
+684,average
+685,high
+686,high
+687,very low
+688,low
+689,low
+690,low
+691,very low
+692,low
+693,average
+694,high
+695,very low
+696,average
+697,average
+698,very low
+699,low
+700,high
+701,low
+702,high
+703,low
+704,low
+705,average
+706,average
+707,average
+708,very low
+709,average
+710,average
+711,low
+712,very low
+713,average
+714,low
+715,average
+716,very low
+717,average
+718,very low
+719,average
+720,very low
+721,high
+722,high
+723,high
+724,low
+725,low
+726,low
+727,low
+728,average
+729,low
+730,very low
+731,high
+732,high
+733,high
+734,high
+735,high
+736,low
+737,low
+738,very low
+739,very low
+740,low
+741,average
+742,low
+743,average
+744,very low
+745,low
+746,average
+747,average
+748,high
+749,low
+750,high
+751,very low
+752,very low
+753,average
+754,low
+755,average
+756,high
+757,high
+758,very low
+759,average
+760,very low
+761,average
+762,very low
+763,average
+764,high
+765,low
+766,very low
+767,average
+768,very low
+769,average
+770,average
+771,very low
+772,very low
+773,high
+774,average
+775,average
+776,average
+777,very low
+778,average
+779,low
+780,very low
+781,very low
+782,high
+783,average
+784,average
+785,low
+786,low
+787,low
+788,low
+789,very low
+790,low
+791,low
+792,very low
+793,low
+794,very low
+795,low
+796,high
+797,high
+798,low
+799,very low
+800,low
+801,very low
+802,high
+803,low
+804,very low
+805,very low
+806,very low
+807,very low
+808,high
+809,average
+810,average
+811,low
+812,very low
+813,very low
+814,high
+815,very low
+816,very low
+817,high
+818,low
+819,very low
+820,average
+821,average
+822,very low
+823,high
+824,high
+825,very low
+826,very low
+827,low
+828,low
+829,low
+830,high
+831,high
+832,low
+833,very low
+834,very low
+835,high
+836,very low
+837,low
+838,low
+839,average
+840,very low
+841,very low
+842,very low
+843,high
+844,average
+845,very low
+846,very low
+847,high
+848,low
+849,average
+850,low
+851,high
+852,very low
+853,high
+854,high
+855,average
+856,low
+857,average
+858,average
+859,average
+860,average
+861,average
+862,very low
+863,high
+864,low
+865,very low
+866,very low
+867,very low
+868,high
+869,very low
+870,high
+871,very low
+872,very low
+873,average
+874,high
+875,low
+876,very low
+877,average
+878,very low
+879,high
+880,very low
+881,average
+882,low
+883,low
+884,low
+885,very low
+886,very low
+887,very low
+888,average
+889,average
+890,low
+891,very low
+892,very low
+893,low
+894,low
+895,low
+896,low
+897,low
+898,low
+899,average
+900,high
+901,very low
+902,low
+903,very low
+904,high
+905,low
+906,very low
+907,very low
+908,average
+909,average
+910,average
+911,high
+912,very low
+913,very low
+914,average
+915,low
+916,high
+917,high
+918,high
+919,high
+920,high
+921,average
+922,average
+923,very low
+924,very low
+925,high
+926,low
+927,low
+928,average
+929,low
+930,low
+931,average
+932,average
+933,very low
+934,very low
+935,average
+936,very low
+937,high
+938,very low
+939,average
+940,low
+941,low
+942,very low
+943,low
+944,high
+945,average
+946,very low
+947,high
+948,very low
+949,average
+950,low
+951,very low
+952,low
+953,high
+954,average
+955,high
+956,low
+957,very low
+958,low
+959,low
+960,high
+961,low
+962,low
+963,low
+964,very low
+965,very low
+966,very low
+967,high
+968,high
+969,very low
+970,very low
+971,very low
+972,very low
+973,very low
+974,average
+975,average
+976,average
+977,low
+978,very low
+979,low
+980,high
+981,very low
+982,average
+983,very low
+984,average
+985,very low
+986,high
+987,very low
+988,very low
+989,low
+990,average
+991,high
+992,average
+993,low
+994,very low
+995,average
+996,very low
+997,low
+998,average
+999,high
+1000,low
+1001,low
+1002,low
+1003,low
+1004,average
+1005,very low
+1006,very low
+1007,average
+1008,low
+1009,high
+1010,high
+1011,low
+1012,low
+1013,low
+1014,very low
+1015,very low
+1016,high
+1017,average
+1018,low
+1019,average
+1020,average
+1021,low
+1022,very low
+1023,very low
+1024,average
+1025,low
+1026,very low
+1027,very low
+1028,low
+1029,high
+1030,low
+1031,very low
+1032,very low
+1033,average
+1034,high
+1035,high
+1036,low
+1037,very low
+1038,high
+1039,average
+1040,very low
+1041,average
+1042,average
+1043,average
+1044,very low
+1045,high
+1046,average
+1047,low
+1048,low
+1049,average
+1050,high
+1051,low
+1052,very low
+1053,low
+1054,low
+1055,very low
+1056,average
+1057,low
+1058,high
+1059,very low
+1060,very low
+1061,average
+1062,low
+1063,very low
+1064,low
+1065,low
+1066,very low
+1067,very low
+1068,low
+1069,low
+1070,average
+1071,very low
+1072,very low
+1073,high
+1074,low
+1075,very low
+1076,average
+1077,average
+1078,average
+1079,average
+1080,very low
+1081,low
+1082,low
+1083,average
+1084,average
+1085,very low
+1086,average
+1087,low
+1088,average
+1089,very low
+1090,very low
+1091,very low
+1092,high
+1093,high
+1094,average
+1095,average
+1096,very low
+1097,low
+1098,very low
+1099,low
+1100,average
+1101,average
+1102,very low
+1103,very low
+1104,low
+1105,low
+1106,very low
+1107,very low
+1108,average
+1109,low
+1110,low
+1111,very low
+1112,low
+1113,average
+1114,very low
+1115,very low
+1116,very low
+1117,very low
+1118,low
+1119,very high
+1120,very low
+1121,average
+1122,very low
+1123,average
+1124,average
+1125,very low
+1126,low
+1127,very low
+1128,very low
+1129,high
+1130,very low
+1131,average
+1132,average
+1133,very low
+1134,low
+1135,very low
+1136,very low
+1137,average
+1138,high
+1139,low
+1140,low
+1141,low
+1142,low
+1143,very low
+1144,high
+1145,average
+1146,low
+1147,average
+1148,average
+1149,very low
+1150,very low
+1151,low
+1152,average
+1153,average
+1154,very low
+1155,high
+1156,high
+1157,average
+1158,low
+1159,low
+1160,average
+1161,average
+1162,high
+1163,average
+1164,average
+1165,low
+1166,very low
+1167,very low
+1168,average
+1169,average
+1170,high
+1171,low
+1172,high
+1173,high
+1174,high
+1175,high
+1176,low
+1177,high
+1178,very low
+1179,very low
+1180,very low
+1181,very low
+1182,average
+1183,high
+1184,very low
+1185,average
+1186,very low
+1187,average
+1188,average
+1189,low
+1190,very low
+1191,very low
+1192,very low
+1193,average
+1194,very low
+1195,low
+1196,low
+1197,very low
+1198,low
+1199,very low
+1200,very low
+1201,average
+1202,low
+1203,very low
+1204,very low
+1205,low
+1206,low
+1207,very low
+1208,very low
+1209,very low
+1210,low
+1211,very low
+1212,high
+1213,very low
+1214,average
+1215,very low
+1216,very low
+1217,low
+1218,low
+1219,high
+1220,very low
+1221,average
+1222,low
+1223,low
+1224,low
+1225,very low
+1226,very low
+1227,low
+1228,average
+1229,high
+1230,low
+1231,low
+1232,average
+1233,very low
+1234,low
+1235,low
+1236,low
+1237,very low
+1238,high
+1239,average
+1240,very low
+1241,average
+1242,very low
+1243,low
+1244,very low
+1245,low
+1246,high
+1247,very low
+1248,low
+1249,low
+1250,very low
+1251,low
+1252,low
+1253,very low
+1254,average
+1255,average
+1256,high
+1257,average
+1258,low
+1259,low
+1260,low
+1261,low
+1262,very low
+1263,very low
+1264,very low
+1265,low
+1266,high
+1267,low
+1268,low
+1269,low
+1270,low
+1271,low
+1272,low
+1273,average
+1274,low
+1275,very low
+1276,very low
+1277,very low
+1278,very low
+1279,very low
+1280,low
+1281,low
+1282,low
+1283,low
+1284,average
+1285,low
+1286,low
+1287,low
+1288,low
+1289,average
+1290,average
+1291,low
+1292,very low
+1293,high
+1294,high
+1295,average
+1296,low
+1297,average
+1298,high
+1299,very low
+1300,low
+1301,very low
+1302,low
+1303,very low
+1304,high
+1305,average
+1306,low
+1307,very low
+1308,high
+1309,very low
+1310,low
+1311,average
+1312,average
+1313,average
+1314,very low
+1315,very low
+1316,low
+1317,average
+1318,low
+1319,very low
+1320,average
+1321,low
+1322,average
+1323,average
+1324,high
+1325,average
+1326,low
+1327,average
+1328,high
+1329,average
+1330,average
+1331,low
+1332,low
+1333,very low
+1334,average
+1335,high
+1336,low
+1337,very low
+1338,very low
+1339,average
+1340,very low
+1341,low
+1342,very low
+1343,low
+1344,average
+1345,low
+1346,very low
+1347,high
+1348,low
+1349,low
+1350,low
+1351,high
+1352,average
+1353,average
+1354,high
+1355,low
+1356,very low
+1357,low
+1358,very low
+1359,average
+1360,low
+1361,average
+1362,low
+1363,average
+1364,low
+1365,low
+1366,low
+1367,high
+1368,average
+1369,average
+1370,high
+1371,very low
+1372,low
+1373,low
+1374,low
+1375,average
+1376,low
+1377,very low
+1378,very low
+1379,average
+1380,low
+1381,average
+1382,very low
+1383,low
+1384,average
+1385,low
+1386,high
+1387,average
+1388,low
+1389,average
+1390,low
+1391,average
+1392,average
+1393,average
+1394,low
+1395,very low
+1396,high
+1397,low
+1398,high
+1399,high
+1400,high
+1401,high
+1402,average
+1403,low
+1404,high
+1405,very low
+1406,low
+1407,average
+1408,very low
+1409,low
+1410,very low
+1411,high
+1412,low
+1413,low
+1414,high
+1415,low
+1416,low
+1417,very low
+1418,average
+1419,very low
+1420,average
+1421,very low
+1422,low
+1423,high
+1424,high
+1425,average
+1426,low
+1427,average
+1428,low
+1429,very low
+1430,high
+1431,very low
+1432,very low
+1433,very low
+1434,average
+1435,very low
+1436,very low
+1437,low
+1438,low
+1439,average
+1440,very low
+1441,very low
+1442,average
+1443,high
+1444,average
+1445,low
+1446,very low
+1447,low
+1448,high
+1449,high
+1450,average
+1451,low
+1452,high
+1453,low
+1454,average
+1455,low
+1456,high
+1457,very low
+1458,low
+1459,very low
+1460,very low
+1461,low
+1462,very low
+1463,very low
+1464,high
+1465,high
+1466,average
+1467,very low
+1468,low
+1469,average
+1470,average
+1471,very low
+1472,low
+1473,low
+1474,very low
+1475,low
+1476,high
+1477,high
+1478,high
+1479,average
+1480,average
+1481,average
+1482,average
+1483,very low
+1484,high
+1485,average
+1486,very low
+1487,high
+1488,high
+1489,high
+1490,low
+1491,low
+1492,high
+1493,very high
+1494,average
+1495,very low
+1496,very low
+1497,very low
+1498,low
+1499,very low
+1500,very low
+1501,high
+1502,low
+1503,very low
+1504,high
+1505,average
+1506,low
+1507,very low
+1508,average
+1509,very low
+1510,average
+1511,high
+1512,low
+1513,average
+1514,low
+1515,average
+1516,low
+1517,average
+1518,very low
+1519,high
+1520,low
+1521,average
+1522,low
+1523,low
+1524,low
+1525,low
+1526,low
+1527,very low
+1528,high
+1529,low
+1530,very low
+1531,average
+1532,low
+1533,low
+1534,low
+1535,very low
+1536,low
+1537,very low
+1538,low
+1539,average
+1540,very low
+1541,very low
+1542,average
+1543,average
+1544,low
+1545,average
+1546,low
+1547,average
+1548,low
+1549,average
+1550,very low
+1551,high
+1552,average
+1553,very low
+1554,very low
+1555,average
+1556,average
+1557,very low
+1558,average
+1559,high
+1560,low
+1561,high
+1562,very low
+1563,very low
+1564,high
+1565,low
+1566,low
+1567,very low
+1568,very low
+1569,average
+1570,low
+1571,high
+1572,low
+1573,very low
+1574,very low
+1575,average
+1576,low
+1577,very low
+1578,very low
+1579,average
+1580,high
+1581,high
+1582,low
+1583,high
+1584,high
+1585,average
+1586,low
+1587,average
+1588,low
+1589,low
+1590,very low
+1591,high
+1592,average
+1593,very low
+1594,high
+1595,average
+1596,very low
+1597,very low
+1598,very low
+1599,very low
+1600,high
+1601,average
+1602,low
+1603,high
+1604,very low
+1605,very low
+1606,low
+1607,average
+1608,low
+1609,low
+1610,average
+1611,low
+1612,high
+1613,high
+1614,high
+1615,average
+1616,very low
+1617,high
+1618,very low
+1619,average
+1620,very low
+1621,very low
+1622,very low
+1623,very low
+1624,high
+1625,average
+1626,very low
+1627,very low
+1628,very low
+1629,low
+1630,low
+1631,high
+1632,average
+1633,high
+1634,very low
+1635,high
+1636,very low
+1637,low
+1638,low
+1639,high
+1640,low
+1641,average
+1642,very low
+1643,average
+1644,low
+1645,very low
+1646,average
+1647,average
+1648,very low
+1649,very low
+1650,average
+1651,high
+1652,average
+1653,very low
+1654,average
+1655,low
+1656,average
+1657,high
+1658,very low
+1659,low
+1660,very low
+1661,average
+1662,high
+1663,average
+1664,very low
+1665,very low
+1666,very low
+1667,very low
+1668,low
+1669,low
+1670,low
+1671,average
+1672,low
+1673,low
+1674,high
+1675,average
+1676,very low
+1677,high
+1678,low
+1679,high
+1680,average
+1681,very low
+1682,average
+1683,low
+1684,low
+1685,low
+1686,very low
+1687,average
+1688,high
+1689,very low
+1690,high
+1691,low
+1692,average
+1693,high
+1694,low
+1695,very low
+1696,low
+1697,low
+1698,low
+1699,average
+1700,average
+1701,very low
+1702,low
+1703,very low
+1704,very low
+1705,high
+1706,high
+1707,very low
+1708,average
+1709,low
+1710,low
+1711,average
+1712,average
+1713,very low
+1714,average
+1715,average
+1716,very low
+1717,high
+1718,average
+1719,very low
+1720,average
+1721,average
+1722,low
+1723,very low
+1724,average
+1725,high
+1726,low
+1727,low
+1728,low
+1729,very low
+1730,low
+1731,high
+1732,low
+1733,very high
+1734,high
+1735,very low
+1736,very low
+1737,high
+1738,average
+1739,low
+1740,low
+1741,high
+1742,high
+1743,very low
+1744,very low
+1745,low
+1746,very low
+1747,average
+1748,high
+1749,average
+1750,very low
+1751,very low
+1752,very low
+1753,very low
+1754,low
+1755,average
+1756,low
+1757,very low
+1758,very low
+1759,high
+1760,average
+1761,very low
+1762,very low
+1763,low
+1764,low
+1765,high
+1766,low
+1767,average
+1768,high
+1769,average
+1770,average
+1771,high
+1772,average
+1773,very low
+1774,low
+1775,low
+1776,very low
+1777,low
+1778,low
+1779,low
+1780,average
+1781,average
+1782,high
+1783,average
+1784,low
+1785,low
+1786,low
+1787,average
+1788,low
+1789,low
+1790,low
+1791,very low
+1792,very low
+1793,high
+1794,high
+1795,low
+1796,low
+1797,very low
+1798,very low
+1799,high
+1800,very high
+1801,average
+1802,very low
+1803,very low
+1804,high
+1805,low
+1806,average
+1807,high
+1808,high
+1809,low
+1810,low
+1811,average
+1812,very low
+1813,average
+1814,high
+1815,low
+1816,very low
+1817,very low
+1818,low
+1819,very low
+1820,very low
+1821,average
+1822,low
+1823,low
+1824,very low
+1825,low
+1826,low
+1827,very low
+1828,high
+1829,low
+1830,low
+1831,very low
+1832,very low
+1833,very low
+1834,very low
+1835,low
+1836,average
+1837,very low
+1838,high
+1839,average
+1840,very low
+1841,very low
+1842,average
+1843,high
+1844,high
+1845,very low
+1846,very low
+1847,low
+1848,average
+1849,very low
+1850,very low
+1851,high
+1852,low
+1853,very low
+1854,average
+1855,low
+1856,very low
+1857,average
+1858,very low
+1859,low
+1860,average
+1861,low
+1862,low
+1863,low
+1864,average
+1865,average
+1866,low
+1867,high
+1868,average
+1869,average
+1870,very low
+1871,high
+1872,very low
+1873,high
+1874,low
+1875,high
+1876,very low
+1877,low
+1878,high
+1879,low
+1880,low
+1881,low
+1882,low
+1883,average
+1884,low
+1885,average
+1886,high
+1887,very low
+1888,average
+1889,very low
+1890,low
+1891,average
+1892,low
+1893,very low
+1894,low
+1895,low
+1896,average
+1897,average
+1898,high
+1899,low
+1900,low
+1901,low
+1902,high
+1903,very low
+1904,average
+1905,very high
+1906,average
+1907,very low
+1908,average
+1909,low
+1910,low
+1911,low
+1912,very low
+1913,low
+1914,low
+1915,low
+1916,very low
+1917,very low
+1918,low
+1919,very low
+1920,low
+1921,very low
+1922,low
+1923,low
+1924,very low
+1925,high
+1926,high
+1927,high
+1928,average
+1929,average
+1930,low
+1931,average
+1932,high
+1933,low
+1934,high
+1935,low
+1936,high
+1937,average
+1938,very low
+1939,very low
+1940,very low
+1941,very low
+1942,average
+1943,high
+1944,low
+1945,average
+1946,high
+1947,average
+1948,very low
+1949,low
+1950,average
+1951,very low
+1952,high
+1953,very low
+1954,very low
+1955,low
+1956,high
+1957,very low
+1958,high
+1959,average
+1960,high
+1961,high
+1962,low
+1963,high
+1964,low
+1965,low
+1966,high
+1967,very low
+1968,very low
+1969,average
+1970,low
+1971,very low
+1972,very low
+1973,average
+1974,very low
+1975,low
+1976,average
+1977,very low
+1978,low
+1979,low
+1980,very low
+1981,low
+1982,high
+1983,high
+1984,low
+1985,average
+1986,low
+1987,very low
+1988,low
+1989,low
+1990,low
+1991,very low
+1992,very low
+1993,high
+1994,low
+1995,high
+1996,high
+1997,average
+1998,average
+1999,very low
+2000,low
+2001,low
+2002,very low
+2003,average
+2004,low
+2005,very low
+2006,very low
+2007,low
+2008,high
+2009,average
+2010,low
+2011,very low
+2012,average
+2013,low
+2014,very low
+2015,very low
+2016,low
+2017,very low
+2018,high
+2019,average
+2020,high
+2021,low
+2022,very low
+2023,low
+2024,very low
+2025,low
+2026,high
+2027,very low
+2028,low
+2029,very low
+2030,very low
+2031,very low
+2032,average
+2033,high
+2034,low
+2035,high
+2036,average
+2037,very low
+2038,very low
+2039,low
+2040,high
+2041,average
+2042,low
+2043,very low
+2044,high
+2045,average
+2046,high
+2047,low
+2048,very low
+2049,low
+2050,low
+2051,low
+2052,low
+2053,low
+2054,very low
+2055,very low
+2056,very low
+2057,average
+2058,high
+2059,average
+2060,low
+2061,low
+2062,very low
+2063,low
+2064,very low
+2065,average
+2066,average
+2067,very low
+2068,high
+2069,very low
+2070,average
+2071,high
+2072,very low
+2073,high
+2074,average
+2075,very low
+2076,low
+2077,low
+2078,low
+2079,high
+2080,very low
+2081,average
+2082,very low
+2083,average
+2084,high
+2085,very low
+2086,average
+2087,high
+2088,low
+2089,very low
+2090,average
+2091,very low
+2092,low
+2093,average
+2094,very low
+2095,high
+2096,average
+2097,low
+2098,average
+2099,very low
+2100,average
+2101,very low
+2102,high
+2103,very low
+2104,high
+2105,very low
+2106,low
+2107,high
+2108,very low
+2109,high
+2110,very low
+2111,very low
+2112,average
+2113,average
+2114,low
+2115,high
+2116,average
+2117,high
+2118,very low
+2119,very low
+2120,low
+2121,very low
+2122,very low
+2123,high
+2124,low
+2125,very low
+2126,high
+2127,average
+2128,very low
+2129,very low
+2130,low
+2131,very low
+2132,low
+2133,very low
+2134,average
+2135,low
+2136,low
+2137,high
+2138,low
+2139,average
+2140,average
+2141,high
+2142,low
+2143,low
+2144,average
+2145,low
+2146,low
+2147,high
+2148,low
+2149,very low
+2150,very low
+2151,high
+2152,very low
+2153,high
+2154,average
+2155,very low
+2156,low
+2157,average
+2158,very low
+2159,average
+2160,average
+2161,very low
+2162,low
+2163,average
+2164,very low
+2165,low
+2166,low
+2167,low
+2168,very low
+2169,very low
+2170,low
+2171,low
+2172,very low
+2173,average
+2174,low
+2175,high
+2176,average
+2177,high
+2178,very low
+2179,low
+2180,average
+2181,very low
+2182,high
+2183,very low
+2184,very low
+2185,very low
+2186,very low
+2187,high
+2188,very low
+2189,low
+2190,low
+2191,very low
+2192,very low
+2193,low
+2194,low
+2195,high
+2196,very low
+2197,low
+2198,high
+2199,low
+2200,low
+2201,very low
+2202,very low
+2203,very low
+2204,high
+2205,low
+2206,low
+2207,high
+2208,very low
+2209,very low
+2210,high
+2211,very low
+2212,high
+2213,high
+2214,low
+2215,low
+2216,low
+2217,very low
+2218,average
+2219,low
+2220,high
+2221,low
+2222,low
+2223,average
+2224,low
+2225,low
+2226,very low
+2227,very low
+2228,low
+2229,low
+2230,low
+2231,high
+2232,high
+2233,very low
+2234,low
+2235,average
+2236,very low
+2237,average
+2238,high
+2239,high
+2240,very low
+2241,average
+2242,very low
+2243,high
+2244,very low
+2245,high
+2246,high
+2247,high
+2248,average
+2249,high
+2250,low
+2251,average
+2252,low
+2253,high
+2254,low
+2255,high
+2256,low
+2257,low
+2258,very low
+2259,very low
+2260,average
+2261,low
+2262,low
+2263,low
+2264,high
+2265,average
+2266,low
+2267,very low
+2268,high
+2269,very low
+2270,high
+2271,average
+2272,average
+2273,very low
+2274,average
+2275,very low
+2276,high
+2277,high
+2278,very low
+2279,very low
+2280,low
+2281,very low
+2282,high
+2283,low
+2284,low
+2285,very low
+2286,very low
+2287,very low
+2288,very low
+2289,very low
+2290,average
+2291,average
+2292,low
+2293,low
+2294,average
+2295,very low
+2296,average
+2297,very low
+2298,very low
+2299,very low
+2300,very low
+2301,very low
+2302,average
+2303,average
+2304,low
+2305,average
+2306,high
+2307,very low
+2308,average
+2309,low
+2310,very high
+2311,low
+2312,average
+2313,average
+2314,very low
+2315,low
+2316,average
+2317,low
+2318,average
+2319,very low
+2320,average
+2321,average
+2322,very low
+2323,very low
+2324,very low
+2325,high
+2326,average
+2327,high
+2328,very low
+2329,average
+2330,very low
+2331,low
+2332,high
+2333,low
+2334,average
+2335,very low
+2336,high
+2337,very low
+2338,very low
+2339,low
+2340,low
+2341,very low
+2342,low
+2343,low
+2344,high
+2345,average
+2346,average
+2347,high
+2348,low
+2349,average
+2350,very low
+2351,average
+2352,average
+2353,very low
+2354,average
+2355,low
+2356,average
+2357,low
+2358,high
+2359,low
+2360,very low
+2361,average
+2362,very low
+2363,average
+2364,average
+2365,average
+2366,average
+2367,low
+2368,very low
+2369,very low
+2370,low
+2371,low
+2372,low
+2373,low
+2374,very low
+2375,very low
+2376,low
+2377,average
+2378,very low
+2379,very low
+2380,low
+2381,low
+2382,average
+2383,average
+2384,high
+2385,low
+2386,low
+2387,very low
+2388,low
+2389,very low
+2390,average
+2391,low
+2392,very low
+2393,very low
+2394,very low
+2395,high
+2396,high
+2397,low
+2398,high
+2399,average
+2400,very low
+2401,very low
+2402,high
+2403,very low
+2404,low
+2405,average
+2406,very low
+2407,very low
+2408,low
+2409,average
+2410,very low
+2411,low
+2412,very low
+2413,average
+2414,low
+2415,high
+2416,low
+2417,low
+2418,low
+2419,low
+2420,average
+2421,very low
+2422,very low
+2423,high
+2424,average
+2425,average
+2426,high
+2427,low
+2428,average
+2429,very low
+2430,very low
+2431,average
+2432,low
+2433,very low
+2434,low
+2435,low
+2436,low
+2437,high
+2438,very low
+2439,low
+2440,low
+2441,low
+2442,average
+2443,very low
+2444,very low
+2445,average
+2446,very low
+2447,high
+2448,very low
+2449,very low
+2450,low
+2451,average
+2452,high
+2453,high
+2454,very low
+2455,very low
+2456,very low
+2457,average
+2458,average
+2459,average
+2460,high
+2461,very low
+2462,low
+2463,average
+2464,very low
+2465,low
+2466,high
+2467,low
+2468,low
+2469,very low
+2470,low
+2471,average
+2472,very low
+2473,low
+2474,low
+2475,very low
+2476,very low
+2477,high
+2478,high
+2479,average
+2480,low
+2481,low
+2482,low
+2483,low
+2484,very low
+2485,average
+2486,low
+2487,high
+2488,average
+2489,high
+2490,very low
+2491,low
+2492,high
+2493,very low
+2494,very low
+2495,high
+2496,low
+2497,very low
+2498,low
+2499,average
+2500,very low
+2501,high
+2502,high
+2503,high
+2504,high
+2505,low
+2506,low
+2507,average
+2508,high
+2509,low
+2510,very low
+2511,very low
+2512,high
+2513,low
+2514,average
+2515,very low
+2516,average
+2517,low
+2518,low
+2519,very low
+2520,high
+2521,low
+2522,very low
+2523,low
+2524,very low
+2525,average
+2526,very low
+2527,low
+2528,very low
+2529,very low
+2530,average
+2531,very low
+2532,average
+2533,high
+2534,low
+2535,average
+2536,low
+2537,average
+2538,high
+2539,low
+2540,average
+2541,low
+2542,low
+2543,low
+2544,low
+2545,low
+2546,high
+2547,low
+2548,average
+2549,average
+2550,low
+2551,very low
+2552,very low
+2553,high
+2554,low
+2555,low
+2556,average
+2557,average
+2558,average
+2559,very low
+2560,average
+2561,low
+2562,very low
+2563,average
+2564,very low
+2565,low
+2566,low
+2567,high
+2568,low
+2569,very low
+2570,high
+2571,low
+2572,very low
+2573,very low
+2574,low
+2575,low
+2576,very low
+2577,average
+2578,high
+2579,low
+2580,very low
+2581,very low
+2582,very low
+2583,low
+2584,average
+2585,very low
+2586,average
+2587,average
+2588,very low
+2589,low
+2590,low
+2591,average
+2592,low
+2593,very low
+2594,high
+2595,very low
+2596,low
+2597,low
+2598,very low
+2599,low
+2600,average
+2601,very low
+2602,very low
+2603,low
+2604,low
+2605,high
+2606,average
+2607,average
+2608,low
+2609,low
+2610,average
+2611,high
+2612,very low
+2613,high
+2614,low
+2615,low
+2616,average
+2617,average
+2618,high
+2619,high
+2620,high
+2621,low
+2622,average
+2623,very low
+2624,low
+2625,low
+2626,high
+2627,high
+2628,high
+2629,very low
+2630,very low
+2631,very low
+2632,very low
+2633,low
+2634,low
+2635,low
+2636,average
+2637,low
+2638,very low
+2639,high
+2640,low
+2641,low
+2642,low
+2643,average
+2644,low
+2645,high
+2646,very low
+2647,very low
+2648,average
+2649,low
+2650,average
+2651,average
+2652,high
+2653,average
+2654,average
+2655,very low
+2656,very low
+2657,very low
+2658,very low
+2659,low
+2660,average
+2661,very low
+2662,very low
+2663,low
+2664,high
+2665,very low
+2666,very low
+2667,very low
+2668,average
+2669,very low
+2670,very low
+2671,high
+2672,very low
+2673,high
+2674,high
+2675,average
+2676,low
+2677,average
+2678,very low
+2679,average
+2680,low
+2681,average
+2682,very low
+2683,very low
+2684,very low
+2685,low
+2686,average
+2687,high
+2688,average
+2689,average
+2690,average
+2691,high
+2692,average
+2693,low
+2694,low
+2695,very low
+2696,average
+2697,high
+2698,average
+2699,very low
+2700,average
+2701,low
+2702,high
+2703,low
+2704,average
+2705,low
+2706,low
+2707,low
+2708,low
+2709,high
+2710,average
+2711,very low
+2712,high
+2713,low
+2714,high
+2715,low
+2716,low
+2717,high
+2718,average
+2719,average
+2720,high
+2721,very low
+2722,very low
+2723,low
+2724,low
+2725,low
+2726,very low
+2727,average
+2728,average
+2729,average
+2730,low
+2731,very low
+2732,average
+2733,very low
+2734,low
+2735,low
+2736,average
+2737,average
+2738,average
+2739,low
+2740,low
+2741,average
+2742,average
+2743,very low
+2744,low
+2745,average
+2746,very low
+2747,very low
+2748,very low
+2749,high
+2750,high
+2751,low
+2752,high
+2753,average
+2754,average
+2755,average
+2756,very low
+2757,high
+2758,very low
+2759,very low
+2760,very low
+2761,average
+2762,very low
+2763,average
+2764,high
+2765,low
+2766,very low
+2767,low
+2768,very low
+2769,very high
+2770,low
+2771,high
+2772,average
+2773,very low
+2774,average
+2775,average
+2776,average
+2777,high
+2778,average
+2779,average
+2780,low
+2781,very low
+2782,average
+2783,average
+2784,low
+2785,very low
+2786,low
+2787,high
+2788,high
+2789,low
+2790,average
+2791,low
+2792,low
+2793,high
+2794,high
+2795,very low
+2796,low
+2797,average
+2798,high
+2799,very low
+2800,very low
+2801,high
+2802,very low
+2803,average
+2804,very low
+2805,very low
+2806,high
+2807,very high
+2808,high
+2809,very low
+2810,high
+2811,average
+2812,high
+2813,very low
+2814,high
+2815,high
+2816,low
+2817,high
+2818,very low
+2819,average
+2820,very low
+2821,very low
+2822,low
+2823,average
+2824,low
+2825,average
+2826,low
+2827,average
+2828,low
+2829,low
+2830,low
+2831,low
+2832,low
+2833,very low
+2834,high
+2835,average
+2836,high
+2837,low
+2838,very low
+2839,high
+2840,high
+2841,high
+2842,average
+2843,high
+2844,high
+2845,very low
+2846,low
+2847,high
+2848,very low
+2849,low
+2850,low
+2851,low
+2852,high
+2853,high
+2854,high
+2855,high
+2856,very low
+2857,low
+2858,very low
+2859,average
+2860,high
+2861,high
+2862,high
+2863,low
+2864,low
+2865,low
+2866,very low
+2867,average
+2868,very low
+2869,average
+2870,average
+2871,high
+2872,low
+2873,low
+2874,low
+2875,average
+2876,low
+2877,high
+2878,low
+2879,low
+2880,high
+2881,average
+2882,high
+2883,high
+2884,low
+2885,average
+2886,very low
+2887,very low
+2888,low
+2889,high
+2890,very low
+2891,high
+2892,very low
+2893,average
+2894,low
+2895,high
+2896,very low
+2897,average
+2898,low
+2899,very low
+2900,very low
+2901,low
+2902,low
+2903,average
+2904,high
+2905,average
+2906,low
+2907,high
+2908,very low
+2909,very low
+2910,average
+2911,very low
+2912,very low
+2913,very low
+2914,very low
+2915,high
+2916,very low
+2917,very low
+2918,high
+2919,average
+2920,low
+2921,low
+2922,average
+2923,very low
+2924,low
+2925,high
+2926,high
+2927,low
+2928,average
+2929,average
+2930,low
+2931,average
+2932,low
+2933,average
+2934,very low
+2935,very low
+2936,low
+2937,very low
+2938,very low
+2939,very low
+2940,high
+2941,low
+2942,average
+2943,low
+2944,average
+2945,very low
+2946,high
+2947,very low
+2948,low
+2949,average
+2950,low
+2951,low
+2952,very low
+2953,very low
+2954,low
+2955,low
+2956,average
+2957,average
+2958,low
+2959,very low
+2960,average
+2961,high
+2962,high
+2963,low
+2964,high
+2965,average
+2966,very low
+2967,high
+2968,low
+2969,low
+2970,average
+2971,average
+2972,low
+2973,average
+2974,low
+2975,low
+2976,average
+2977,low
+2978,low
+2979,very low
+2980,very low
+2981,low
+2982,average
+2983,very low
+2984,very low
+2985,low
+2986,low
+2987,very low
+2988,low
+2989,low
+2990,low
+2991,average
+2992,low
+2993,low
+2994,high
+2995,low
+2996,low
+2997,high
+2998,very low
+2999,very low
+3000,low
+3001,average
+3002,low
+3003,high
+3004,very low
+3005,very low
+3006,low
+3007,very low
+3008,high
+3009,average
+3010,very low
+3011,low
+3012,very low
+3013,very low
+3014,very low
+3015,average
+3016,very low
+3017,high
+3018,low
+3019,low
+3020,high
+3021,high
+3022,average
+3023,very low
+3024,high
+3025,high
+3026,high
+3027,high
+3028,very low
+3029,very low
+3030,low
+3031,average
+3032,high
+3033,high
+3034,average
+3035,low
+3036,high
+3037,high
+3038,low
+3039,very low
+3040,very low
+3041,average
+3042,average
+3043,high
+3044,average
+3045,very low
+3046,very low
+3047,low
+3048,high
+3049,average
+3050,low
+3051,low
+3052,low
+3053,very low
+3054,low
+3055,high
+3056,very low
+3057,very low
+3058,average
+3059,low
+3060,very low
+3061,very low
+3062,average
+3063,average
+3064,average
+3065,high
+3066,average
+3067,low
+3068,low
+3069,very low
+3070,average
+3071,very low
+3072,high
+3073,low
+3074,low
+3075,very low
+3076,average
+3077,average
+3078,average
+3079,high
+3080,high
+3081,low
+3082,low
+3083,low
+3084,low
+3085,low
+3086,high
+3087,average
+3088,high
+3089,low
+3090,low
+3091,high
+3092,very high
+3093,average
+3094,very low
+3095,very low
+3096,high
+3097,very low
+3098,low
+3099,high
+3100,average
+3101,average
+3102,low
+3103,low
+3104,low
+3105,very low
+3106,high
+3107,average
+3108,high
+3109,high
+3110,low
+3111,low
+3112,low
+3113,low
+3114,low
+3115,average
+3116,very low
+3117,average
+3118,low
+3119,high
+3120,low
+3121,low
+3122,average
+3123,very low
+3124,high
+3125,average
+3126,high
+3127,high
+3128,very low
+3129,very low
+3130,low
+3131,low
+3132,low
+3133,average
+3134,high
+3135,high
+3136,low
+3137,high
+3138,low
+3139,very low
+3140,low
+3141,low
+3142,very low
+3143,low
+3144,low
+3145,average
+3146,low
+3147,low
+3148,low
+3149,high
+3150,very low
+3151,low
+3152,very low
+3153,low
+3154,high
+3155,low
+3156,very low
+3157,very low
+3158,high
+3159,high
+3160,average
+3161,low
+3162,low
+3163,very low
+3164,high
+3165,low
+3166,low
+3167,very low
+3168,very low
+3169,very low
+3170,average
+3171,low
+3172,high
+3173,low
+3174,very low
+3175,very low
+3176,average
+3177,average
+3178,low
+3179,very low
+3180,very low
+3181,very low
+3182,very low
+3183,very low
+3184,average
+3185,low
+3186,average
+3187,average
+3188,very low
+3189,low
+3190,very low
+3191,average
+3192,average
+3193,high
+3194,very low
+3195,high
+3196,low
+3197,average
+3198,very low
+3199,low
+3200,high
+3201,very low
+3202,very low
+3203,very low
+3204,very low
+3205,low
+3206,very low
+3207,very low
+3208,average
+3209,very low
+3210,low
+3211,high
+3212,very low
+3213,low
+3214,average
+3215,average
+3216,very low
+3217,high
+3218,very low
+3219,very low
+3220,high
+3221,very low
+3222,very low
+3223,high
+3224,low
+3225,average
+3226,high
+3227,low
+3228,high
+3229,average
+3230,average
+3231,very low
+3232,average
+3233,average
+3234,very low
+3235,low
+3236,low
+3237,average
+3238,very low
+3239,low
+3240,high
+3241,average
+3242,very low
+3243,low
+3244,average
+3245,low
+3246,high
+3247,very low
+3248,average
+3249,very low
+3250,low
+3251,high
+3252,average
+3253,very low
+3254,low
+3255,low
+3256,high
+3257,very low
+3258,high
+3259,low
+3260,very low
+3261,average
+3262,average
+3263,high
+3264,very low
+3265,very low
+3266,average
+3267,very low
+3268,average
+3269,high
+3270,low
+3271,average
+3272,high
+3273,high
+3274,average
+3275,average
+3276,high
+3277,average
+3278,very low
+3279,low
+3280,low
+3281,low
+3282,average
+3283,average
+3284,average
+3285,very low
+3286,very low
+3287,very low
+3288,low
+3289,low
+3290,low
+3291,very low
+3292,average
+3293,average
+3294,very low
+3295,very low
+3296,very low
+3297,average
+3298,low
+3299,average
+3300,very low
+3301,average
+3302,high
+3303,average
+3304,very low
+3305,very low
+3306,average
+3307,low
+3308,average
+3309,high
+3310,very low
+3311,average
+3312,very low
+3313,average
+3314,very low
+3315,very low
+3316,low
+3317,low
+3318,very low
+3319,low
+3320,very low
+3321,low
+3322,very low
+3323,high
+3324,average
+3325,average
+3326,high
+3327,average
+3328,low
+3329,low
+3330,average
+3331,average
+3332,very low
+3333,average
+3334,very low
+3335,average
+3336,low
+3337,low
+3338,very low
+3339,low
+3340,low
+3341,low
+3342,high
+3343,high
+3344,very low
+3345,high
+3346,average
+3347,very low
+3348,average
+3349,very low
+3350,average
+3351,high
+3352,average
+3353,low
+3354,average
+3355,very low
+3356,very low
+3357,low
+3358,very low
+3359,very low
+3360,low
+3361,average
+3362,average
+3363,very low
+3364,high
+3365,low
+3366,very low
+3367,average
+3368,high
+3369,low
+3370,high
+3371,average
+3372,very low
+3373,low
+3374,low
+3375,high
+3376,average
+3377,average
+3378,average
+3379,low
+3380,low
+3381,average
+3382,low
+3383,high
+3384,high
+3385,very low
+3386,low
+3387,very low
+3388,low
+3389,very low
+3390,low
+3391,high
+3392,very low
+3393,low
+3394,very low
+3395,average
+3396,average
+3397,low
+3398,very high
+3399,low
+3400,average
+3401,average
+3402,low
+3403,average
+3404,average
+3405,high
+3406,very low
+3407,average
+3408,very low
+3409,very low
+3410,low
+3411,low
+3412,very low
+3413,low
+3414,average
+3415,very low
+3416,very low
+3417,very low
+3418,average
+3419,average
+3420,average
+3421,very low
+3422,average
+3423,high
+3424,high
+3425,very low
+3426,very low
+3427,very low
+3428,very low
+3429,low
+3430,average
+3431,very low
+3432,low
+3433,very low
+3434,very low
+3435,low
+3436,low
+3437,high
+3438,low
+3439,very low
+3440,low
+3441,low
+3442,average
+3443,very low
+3444,low
+3445,average
+3446,average
+3447,high
+3448,average
+3449,high
+3450,very low
+3451,very low
+3452,high
+3453,low
+3454,very low
+3455,average
+3456,very low
+3457,low
+3458,average
+3459,low
+3460,low
+3461,average
+3462,high
+3463,average
+3464,very low
+3465,very low
+3466,high
+3467,low
+3468,very low
+3469,low
+3470,very low
+3471,low
+3472,very low
+3473,low
+3474,high
+3475,low
+3476,very low
+3477,average
+3478,low
+3479,low
+3480,high
+3481,average
+3482,very low
+3483,very low
+3484,very low
+3485,very low
+3486,average
+3487,average
+3488,low
+3489,average
+3490,high
+3491,low
+3492,low
+3493,high
+3494,low
+3495,high
+3496,average
+3497,very low
+3498,average
+3499,low
+3500,average
+3501,low
+3502,high
+3503,high
+3504,low
+3505,low
+3506,low
+3507,average
+3508,average
+3509,low
+3510,average
+3511,average
+3512,very low
+3513,high
+3514,average
+3515,very low
+3516,average
+3517,very low
+3518,high
+3519,very low
+3520,high
+3521,high
+3522,low
+3523,average
+3524,low
+3525,average
+3526,low
+3527,average
+3528,low
+3529,very low
+3530,very low
+3531,low
+3532,low
+3533,very low
+3534,average
+3535,average
+3536,very low
+3537,average
+3538,high
+3539,high
+3540,very low
+3541,very low
+3542,high
+3543,low
+3544,high
+3545,very low
+3546,low
+3547,average
+3548,low
+3549,very low
+3550,low
+3551,low
+3552,average
+3553,average
+3554,high
+3555,very low
+3556,very low
+3557,high
+3558,average
+3559,low
+3560,very low
+3561,high
+3562,high
+3563,very low
+3564,high
+3565,low
+3566,average
+3567,low
+3568,low
+3569,very low
+3570,average
+3571,average
+3572,very low
+3573,high
+3574,low
+3575,very low
+3576,very low
+3577,very low
+3578,very low
+3579,very low
+3580,low
+3581,low
+3582,average
+3583,low
+3584,very low
+3585,low
+3586,very low
+3587,low
+3588,low
+3589,very low
+3590,high
+3591,low
+3592,low
+3593,very low
+3594,low
+3595,high
+3596,low
+3597,low
+3598,very low
+3599,very low
+3600,very low
+3601,high
+3602,high
+3603,average
+3604,high
+3605,very low
+3606,average
+3607,very low
+3608,low
+3609,high
+3610,low
+3611,low
+3612,very low
+3613,very low
+3614,low
+3615,average
+3616,low
+3617,low
+3618,very low
+3619,very low
+3620,low
+3621,average
+3622,low
+3623,high
+3624,low
+3625,high
+3626,average
+3627,low
+3628,low
+3629,very low
+3630,low
+3631,very low
+3632,very low
+3633,very low
+3634,low
+3635,very low
+3636,low
+3637,average
+3638,low
+3639,low
+3640,high
+3641,average
+3642,low
+3643,high
+3644,low
+3645,low
+3646,low
+3647,average
+3648,very low
+3649,low
+3650,very low
+3651,high
+3652,high
+3653,low
+3654,average
+3655,high
+3656,low
+3657,very low
+3658,high
+3659,high
+3660,very low
+3661,very low
+3662,low
+3663,average
+3664,very low
+3665,high
+3666,average
+3667,very low
+3668,high
+3669,low
+3670,high
+3671,low
+3672,very low
+3673,low
+3674,high
+3675,low
+3676,very low
+3677,average
+3678,low
+3679,average
+3680,very low
+3681,low
+3682,low
+3683,low
+3684,high
+3685,very low
+3686,average
+3687,very low
+3688,high
+3689,high
+3690,very low
+3691,high
+3692,low
+3693,high
+3694,high
+3695,average
+3696,low
+3697,low
+3698,average
+3699,low
+3700,very low
+3701,average
+3702,low
+3703,high
+3704,low
+3705,low
+3706,average
+3707,very low
+3708,low
+3709,average
+3710,very low
+3711,average
+3712,average
+3713,low
+3714,low
+3715,high
+3716,average
+3717,low
+3718,average
+3719,very low
+3720,low
+3721,very low
+3722,low
+3723,low
+3724,low
+3725,very low
+3726,very low
+3727,low
+3728,average
+3729,low
+3730,low
+3731,average
+3732,average
+3733,average
+3734,low
+3735,average
+3736,very low
+3737,average
+3738,average
+3739,high
+3740,very low
+3741,very low
+3742,low
+3743,high
+3744,very low
+3745,average
+3746,very low
+3747,very low
+3748,average
+3749,low
+3750,average
+3751,average
+3752,high
+3753,very low
+3754,high
+3755,low
+3756,low
+3757,low
+3758,low
+3759,average
+3760,low
+3761,low
+3762,low
+3763,average
+3764,low
+3765,low
+3766,low
+3767,low
+3768,average
+3769,very low
+3770,very low
+3771,very low
+3772,high
+3773,low
+3774,low
+3775,very low
+3776,average
+3777,low
+3778,average
+3779,low
+3780,high
+3781,low
+3782,low
+3783,average
+3784,low
+3785,high
+3786,low
+3787,very low
+3788,low
+3789,average
+3790,average
+3791,average
+3792,average
+3793,average
+3794,low
+3795,average
+3796,very low
+3797,low
+3798,high
+3799,low
+3800,average
+3801,low
+3802,very low
+3803,low
+3804,high
+3805,very low
+3806,very low
+3807,very low
+3808,average
+3809,low
+3810,high
+3811,very low
+3812,very low
+3813,low
+3814,very low
+3815,high
+3816,average
+3817,low
+3818,very low
+3819,average
+3820,very low
+3821,low
+3822,very low
+3823,low
+3824,high
+3825,low
+3826,very low
+3827,average
+3828,very low
+3829,very low
+3830,very low
+3831,low
+3832,average
+3833,very low
+3834,average
+3835,very low
+3836,low
+3837,very low
+3838,very low
+3839,low
+3840,low
+3841,very low
+3842,very low
+3843,very low
+3844,average
+3845,average
+3846,very low
+3847,very low
+3848,low
+3849,average
+3850,low
+3851,very low
+3852,very low
+3853,very low
+3854,average
+3855,high
+3856,very low
+3857,very low
+3858,high
+3859,average
+3860,very low
+3861,very low
+3862,very low
+3863,very low
+3864,average
+3865,low
+3866,low
+3867,high
+3868,very low
+3869,average
+3870,average
+3871,high
+3872,average
+3873,very low
+3874,very low
+3875,average
+3876,average
+3877,low
+3878,very low
+3879,very low
+3880,very low
+3881,very low
+3882,very low
+3883,low
+3884,average
+3885,low
+3886,high
+3887,high
+3888,high
+3889,high
+3890,average
+3891,average
+3892,high
+3893,low
+3894,very low
+3895,very low
+3896,very low
+3897,average
+3898,low
+3899,high
+3900,average
+3901,very low
+3902,average
+3903,low
+3904,low
+3905,high
+3906,very low
+3907,low
+3908,low
+3909,low
+3910,low
+3911,high
+3912,very low
+3913,very low
+3914,low
+3915,high
+3916,very low
+3917,very low
+3918,very low
+3919,very low
+3920,average
+3921,high
+3922,average
+3923,very low
+3924,average
+3925,very low
+3926,average
+3927,very low
+3928,low
+3929,very low
+3930,very low
+3931,average
+3932,average
+3933,very low
+3934,low
+3935,average
+3936,very low
+3937,average
+3938,low
+3939,average
+3940,average
+3941,very low
+3942,low
+3943,low
+3944,low
+3945,very low
+3946,very low
+3947,low
+3948,low
+3949,low
+3950,very low
+3951,low
+3952,high
+3953,average
+3954,low
+3955,high
+3956,low
+3957,low
+3958,high
+3959,low
+3960,average
+3961,average
+3962,very low
+3963,very low
+3964,very low
+3965,very low
+3966,very low
+3967,high
+3968,average
+3969,very low
+3970,low
+3971,low
+3972,low
+3973,very low
+3974,average
+3975,high
+3976,average
+3977,very low
+3978,low
+3979,high
+3980,average
+3981,low
+3982,average
+3983,very low
+3984,very low
+3985,very low
+3986,very low
+3987,low
+3988,high
+3989,high
+3990,very low
+3991,low
+3992,very low
+3993,low
+3994,low
+3995,high
+3996,low
+3997,high
+3998,average
+3999,very low
+4000,high
